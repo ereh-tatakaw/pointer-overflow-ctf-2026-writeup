@@ -26,3 +26,5 @@ The important part was not only finding the hidden function but also understandi
 ## Flag
 
 POCTF{126.390.****************.**************************}
+
+Note: Writeup was done with the assist of ChatGPT.
